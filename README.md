@@ -23,8 +23,8 @@ Key Findings
 Tools Used
 •	Microsoft Excel 2021
 •	PivotTables, AVERAGEIFS, MINIFS, SLOPE, XLOOKUP, and Conditional Formatting
-Author
-Muhammed Sufyan Haruna
+
+Author: Muhammed Sufyan Haruna \n
 Automotive Engineering Student — Air Force Institute of Technology, Nigeria
 LinkedIn: https://www.linkedin.com/in/muhammed-sufyan-haruna-a190992aa 
 
