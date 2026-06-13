@@ -1,0 +1,266 @@
+Driver_Code,Driver_Name,Team,Car_Number,Lap,Tyre_Compound,Lap_On_Tyre,Lap_Time_s,S1_Time_s,S2_Time_s,S3_Time_s,Is_Pit_Lap,Pit_Stop_Duration_s,Gap_To_Leader_s
+VER,Max Verstappen,Red Bull,1,1,Medium,1,95.851,32.137,40.186,23.528,NO,,0.000
+PER,Sergio Perez,Red Bull,11,1,Medium,1,96.585,32.235,40.748,23.602,NO,,0.000
+ALO,Fernando Alonso,Aston Martin,14,1,Hard,1,98.444,32.770,41.366,24.308,NO,,0.000
+SAI,Carlos Sainz,Ferrari,55,1,Medium,1,97.107,32.679,40.856,23.571,NO,,0.000
+NOR,Lando Norris,McLaren,4,1,Hard,1,99.711,33.214,41.951,24.546,NO,,0.000
+VER,Max Verstappen,Red Bull,1,2,Medium,2,91.892,31.059,38.544,22.289,NO,,0.000
+PER,Sergio Perez,Red Bull,11,2,Medium,2,92.113,31.088,38.866,22.159,NO,,0.955
+ALO,Fernando Alonso,Aston Martin,14,2,Hard,2,93.953,31.733,39.396,22.824,NO,,4.655
+SAI,Carlos Sainz,Ferrari,55,2,Medium,2,93.077,31.301,38.847,22.928,NO,,2.441
+NOR,Lando Norris,McLaren,4,2,Hard,2,94.542,31.793,39.630,23.118,NO,,6.510
+VER,Max Verstappen,Red Bull,1,3,Medium,3,91.532,31.116,38.596,21.820,NO,,0.000
+PER,Sergio Perez,Red Bull,11,3,Medium,3,92.455,31.125,38.692,22.638,NO,,1.878
+ALO,Fernando Alonso,Aston Martin,14,3,Hard,3,94.034,31.555,39.554,22.926,NO,,7.156
+SAI,Carlos Sainz,Ferrari,55,3,Medium,3,93.029,31.206,38.976,22.848,NO,,3.938
+NOR,Lando Norris,McLaren,4,3,Hard,3,94.355,31.848,39.452,23.054,NO,,9.332
+VER,Max Verstappen,Red Bull,1,4,Medium,4,91.748,30.807,38.568,22.373,NO,,0.000
+PER,Sergio Perez,Red Bull,11,4,Medium,4,92.292,31.059,38.834,22.398,NO,,2.422
+ALO,Fernando Alonso,Aston Martin,14,4,Hard,4,94.124,31.605,39.485,23.034,NO,,9.533
+SAI,Carlos Sainz,Ferrari,55,4,Medium,4,92.754,31.197,38.931,22.626,NO,,4.943
+NOR,Lando Norris,McLaren,4,4,Hard,4,94.580,31.688,39.682,23.210,NO,,12.164
+VER,Max Verstappen,Red Bull,1,5,Medium,5,91.819,31.005,38.416,22.399,NO,,0.000
+PER,Sergio Perez,Red Bull,11,5,Medium,5,92.427,31.171,38.698,22.557,NO,,3.029
+ALO,Fernando Alonso,Aston Martin,14,5,Hard,5,93.778,31.553,39.275,22.950,NO,,11.492
+SAI,Carlos Sainz,Ferrari,55,5,Medium,5,93.177,31.219,38.866,23.092,NO,,6.301
+NOR,Lando Norris,McLaren,4,5,Hard,5,94.599,31.949,39.472,23.177,NO,,14.943
+VER,Max Verstappen,Red Bull,1,6,Medium,6,91.821,30.801,38.474,22.546,NO,,0.000
+PER,Sergio Perez,Red Bull,11,6,Medium,6,92.768,31.060,38.828,22.881,NO,,3.977
+ALO,Fernando Alonso,Aston Martin,14,6,Hard,6,94.169,31.663,39.244,23.262,NO,,13.839
+SAI,Carlos Sainz,Ferrari,55,6,Medium,6,92.996,31.280,38.855,22.861,NO,,7.476
+NOR,Lando Norris,McLaren,4,6,Hard,6,94.160,31.916,39.472,22.773,NO,,17.283
+VER,Max Verstappen,Red Bull,1,7,Medium,7,91.925,31.015,38.354,22.556,NO,,0.000
+PER,Sergio Perez,Red Bull,11,7,Medium,7,93.060,31.367,38.751,22.942,NO,,5.112
+ALO,Fernando Alonso,Aston Martin,14,7,Hard,7,94.067,31.696,39.525,22.846,NO,,15.981
+SAI,Carlos Sainz,Ferrari,55,7,Medium,7,93.093,31.385,39.105,22.603,NO,,8.644
+NOR,Lando Norris,McLaren,4,7,Hard,7,94.619,31.779,39.460,23.380,NO,,19.977
+VER,Max Verstappen,Red Bull,1,8,Medium,8,104.751,34.919,43.398,26.433,NO,,0.000
+PER,Sergio Perez,Red Bull,11,8,Medium,8,105.382,35.236,43.626,26.520,NO,,5.743
+ALO,Fernando Alonso,Aston Martin,14,8,Hard,8,106.817,35.537,44.348,26.932,NO,,18.047
+SAI,Carlos Sainz,Ferrari,55,8,Medium,8,105.858,35.481,43.998,26.380,NO,,9.751
+NOR,Lando Norris,McLaren,4,8,Hard,8,107.338,35.756,44.700,26.882,NO,,22.563
+VER,Max Verstappen,Red Bull,1,9,Medium,9,104.830,34.898,43.402,26.531,NO,,0.000
+PER,Sergio Perez,Red Bull,11,9,Medium,9,105.638,35.156,43.682,26.801,NO,,6.551
+ALO,Fernando Alonso,Aston Martin,14,9,Hard,9,106.521,35.856,44.497,26.168,NO,,19.737
+SAI,Carlos Sainz,Ferrari,55,9,Medium,9,105.970,35.288,43.820,26.861,NO,,10.890
+NOR,Lando Norris,McLaren,4,9,Hard,9,107.130,35.678,44.705,26.747,NO,,24.863
+VER,Max Verstappen,Red Bull,1,10,Medium,10,92.301,30.840,38.298,23.163,NO,,0.000
+PER,Sergio Perez,Red Bull,11,10,Medium,10,92.731,31.070,38.857,22.804,NO,,6.981
+ALO,Fernando Alonso,Aston Martin,14,10,Hard,10,94.091,31.828,39.493,22.770,NO,,21.528
+SAI,Carlos Sainz,Ferrari,55,10,Medium,10,93.329,31.390,38.885,23.054,NO,,11.918
+NOR,Lando Norris,McLaren,4,10,Hard,10,94.479,31.950,39.664,22.865,NO,,27.042
+VER,Max Verstappen,Red Bull,1,11,Medium,11,92.251,30.945,38.324,22.982,NO,,0.000
+PER,Sergio Perez,Red Bull,11,11,Medium,11,93.023,31.318,38.693,23.011,NO,,7.753
+ALO,Fernando Alonso,Aston Martin,14,11,Hard,11,94.060,31.654,39.388,23.018,NO,,23.337
+SAI,Carlos Sainz,Ferrari,55,11,Medium,11,93.209,31.342,38.828,23.040,NO,,12.876
+NOR,Lando Norris,McLaren,4,11,Hard,11,94.957,31.679,39.667,23.611,NO,,29.747
+VER,Max Verstappen,Red Bull,1,12,Medium,12,92.217,30.804,38.486,22.927,NO,,0.000
+PER,Sergio Perez,Red Bull,11,12,Medium,12,93.036,31.178,38.816,23.042,NO,,8.572
+ALO,Fernando Alonso,Aston Martin,14,12,Hard,12,94.511,31.681,39.268,23.562,NO,,25.631
+SAI,Carlos Sainz,Ferrari,55,12,Medium,12,93.496,31.228,38.923,23.344,NO,,14.155
+NOR,Lando Norris,McLaren,4,12,Hard,12,94.838,31.920,39.528,23.390,NO,,32.369
+VER,Max Verstappen,Red Bull,1,13,Medium,13,92.584,30.865,38.362,23.357,NO,,0.000
+PER,Sergio Perez,Red Bull,11,13,Medium,13,93.473,31.128,38.646,23.699,NO,,9.461
+ALO,Fernando Alonso,Aston Martin,14,13,Hard,13,94.112,31.576,39.350,23.187,NO,,27.159
+SAI,Carlos Sainz,Ferrari,55,13,Medium,13,93.425,31.271,39.031,23.124,NO,,14.996
+NOR,Lando Norris,McLaren,4,13,Hard,13,94.763,31.948,39.611,23.205,NO,,34.547
+VER,Max Verstappen,Red Bull,1,14,Medium,14,92.182,31.129,38.594,22.459,NO,,0.000
+PER,Sergio Perez,Red Bull,11,14,Medium,14,93.445,31.091,38.954,23.400,NO,,10.724
+ALO,Fernando Alonso,Aston Martin,14,14,Hard,14,94.086,31.818,39.302,22.966,NO,,29.063
+SAI,Carlos Sainz,Ferrari,55,14,Medium,14,93.822,31.478,38.917,23.428,NO,,16.636
+NOR,Lando Norris,McLaren,4,14,Hard,14,94.889,31.700,39.607,23.582,NO,,37.255
+VER,Max Verstappen,Red Bull,1,15,Medium,15,92.342,30.942,38.508,22.892,NO,,0.000
+PER,Sergio Perez,Red Bull,11,15,Medium,15,93.687,31.109,38.905,23.673,NO,,12.069
+ALO,Fernando Alonso,Aston Martin,14,15,Hard,15,94.201,31.534,39.344,23.323,NO,,30.922
+SAI,Carlos Sainz,Ferrari,55,15,Medium,15,93.636,31.249,38.971,23.417,NO,,17.931
+NOR,Lando Norris,McLaren,4,15,Hard,15,94.716,31.710,39.704,23.302,NO,,39.628
+VER,Max Verstappen,Red Bull,1,16,Medium,16,92.797,30.872,38.309,23.617,NO,,0.000
+PER,Sergio Perez,Red Bull,11,16,Medium,16,93.507,31.286,38.861,23.360,NO,,12.780
+ALO,Fernando Alonso,Aston Martin,14,16,Hard,16,94.168,31.746,39.465,22.956,NO,,32.294
+SAI,Carlos Sainz,Ferrari,55,16,Medium,16,93.931,31.233,38.838,23.860,NO,,19.065
+NOR,Lando Norris,McLaren,4,16,Hard,16,94.718,31.879,39.737,23.102,NO,,41.550
+VER,Max Verstappen,Red Bull,1,17,Medium,17,92.658,30.948,38.437,23.273,NO,,0.000
+PER,Sergio Perez,Red Bull,11,17,Medium,17,93.398,31.136,38.813,23.448,NO,,13.519
+ALO,Fernando Alonso,Aston Martin,14,17,Hard,17,94.186,31.791,39.305,23.090,NO,,33.821
+SAI,Carlos Sainz,Ferrari,55,17,Medium,17,94.156,31.404,39.053,23.699,NO,,20.562
+NOR,Lando Norris,McLaren,4,17,Hard,17,94.885,31.903,39.619,23.363,NO,,43.776
+VER,Max Verstappen,Red Bull,1,18,Medium,18,92.757,30.962,38.319,23.476,NO,,0.000
+PER,Sergio Perez,Red Bull,11,18,Medium,18,113.134,31.035,38.630,43.469,YES,3.1,33.896
+ALO,Fernando Alonso,Aston Martin,14,18,Hard,18,94.776,31.764,39.568,23.445,NO,,35.841
+SAI,Carlos Sainz,Ferrari,55,18,Medium,18,94.101,31.440,38.838,23.824,NO,,21.906
+NOR,Lando Norris,McLaren,4,18,Hard,18,95.214,31.663,39.475,24.077,NO,,46.234
+VER,Max Verstappen,Red Bull,1,19,Medium,19,93.078,30.828,38.293,23.956,NO,,0.000
+PER,Sergio Perez,Red Bull,11,19,Hard,1,93.436,31.552,39.321,22.562,NO,,34.255
+ALO,Fernando Alonso,Aston Martin,14,19,Hard,19,94.367,31.776,39.528,23.063,NO,,37.131
+SAI,Carlos Sainz,Ferrari,55,19,Medium,19,94.084,31.171,38.895,24.018,NO,,22.912
+NOR,Lando Norris,McLaren,4,19,Hard,19,94.689,31.868,39.718,23.102,NO,,47.845
+VER,Max Verstappen,Red Bull,1,20,Medium,20,114.368,31.012,38.525,44.831,YES,2.8,0.000
+PER,Sergio Perez,Red Bull,11,20,Hard,2,93.524,31.521,39.422,22.581,NO,,13.411
+ALO,Fernando Alonso,Aston Martin,14,20,Hard,20,94.879,31.591,39.336,23.952,NO,,17.642
+SAI,Carlos Sainz,Ferrari,55,20,Medium,20,94.300,31.361,38.898,24.041,NO,,2.845
+NOR,Lando Norris,McLaren,4,20,Hard,20,95.011,31.858,39.634,23.519,NO,,28.489
+VER,Max Verstappen,Red Bull,1,21,Hard,1,92.860,31.272,38.944,22.644,NO,,0.000
+PER,Sergio Perez,Red Bull,11,21,Hard,3,93.349,31.629,39.318,22.401,NO,,13.900
+ALO,Fernando Alonso,Aston Martin,14,21,Hard,21,94.905,31.619,39.506,23.779,NO,,19.687
+SAI,Carlos Sainz,Ferrari,55,21,Medium,21,94.044,31.337,38.900,23.808,NO,,4.029
+NOR,Lando Norris,McLaren,4,21,Hard,21,95.031,31.971,39.584,23.476,NO,,30.659
+VER,Max Verstappen,Red Bull,1,22,Hard,2,92.630,31.467,38.913,22.250,NO,,0.000
+PER,Sergio Perez,Red Bull,11,22,Hard,4,93.788,31.552,39.385,22.851,NO,,15.058
+ALO,Fernando Alonso,Aston Martin,14,22,Hard,22,94.464,31.596,39.394,23.473,NO,,21.520
+SAI,Carlos Sainz,Ferrari,55,22,Medium,22,114.159,31.229,39.017,43.913,YES,3.3,25.558
+NOR,Lando Norris,McLaren,4,22,Hard,22,95.198,31.866,39.570,23.762,NO,,33.227
+VER,Max Verstappen,Red Bull,1,23,Hard,3,92.872,31.427,38.992,22.453,NO,,0.000
+PER,Sergio Perez,Red Bull,11,23,Hard,5,93.597,31.489,39.319,22.789,NO,,15.782
+ALO,Fernando Alonso,Aston Martin,14,23,Hard,23,94.865,31.767,39.582,23.516,NO,,23.514
+SAI,Carlos Sainz,Ferrari,55,23,Hard,1,94.149,31.759,39.582,22.808,NO,,26.835
+NOR,Lando Norris,McLaren,4,23,Hard,23,95.088,31.924,39.638,23.526,NO,,35.444
+VER,Max Verstappen,Red Bull,1,24,Hard,4,92.913,31.446,38.880,22.587,NO,,0.000
+PER,Sergio Perez,Red Bull,11,24,Hard,6,93.907,31.607,39.355,22.946,NO,,16.776
+ALO,Fernando Alonso,Aston Martin,14,24,Hard,24,116.709,31.542,39.402,45.766,YES,2.9,47.310
+SAI,Carlos Sainz,Ferrari,55,24,Hard,2,93.886,31.732,39.420,22.734,NO,,27.808
+NOR,Lando Norris,McLaren,4,24,Hard,24,95.246,31.720,39.619,23.907,NO,,37.776
+VER,Max Verstappen,Red Bull,1,25,Hard,5,92.817,31.290,38.983,22.545,NO,,0.000
+PER,Sergio Perez,Red Bull,11,25,Hard,7,93.641,31.724,39.414,22.503,NO,,17.599
+ALO,Fernando Alonso,Aston Martin,14,25,Medium,1,92.648,31.395,39.021,22.232,NO,,47.140
+SAI,Carlos Sainz,Ferrari,55,25,Hard,3,94.327,31.874,39.563,22.890,NO,,29.318
+NOR,Lando Norris,McLaren,4,25,Hard,25,95.346,31.707,39.623,24.015,NO,,40.305
+VER,Max Verstappen,Red Bull,1,26,Hard,6,93.143,31.372,38.796,22.975,NO,,0.000
+PER,Sergio Perez,Red Bull,11,26,Hard,8,93.717,31.686,39.165,22.866,NO,,18.174
+ALO,Fernando Alonso,Aston Martin,14,26,Medium,2,92.624,31.360,38.775,22.488,NO,,46.621
+SAI,Carlos Sainz,Ferrari,55,26,Hard,4,93.993,31.816,39.423,22.754,NO,,30.168
+NOR,Lando Norris,McLaren,4,26,Hard,26,116.670,31.728,39.513,45.429,YES,3.0,63.831
+VER,Max Verstappen,Red Bull,1,27,Hard,7,92.821,31.199,38.889,22.733,NO,,0.000
+PER,Sergio Perez,Red Bull,11,27,Hard,9,94.039,31.646,39.245,23.148,NO,,19.391
+ALO,Fernando Alonso,Aston Martin,14,27,Medium,3,93.013,31.191,38.892,22.930,NO,,46.813
+SAI,Carlos Sainz,Ferrari,55,27,Hard,5,93.981,31.860,39.455,22.666,NO,,31.328
+NOR,Lando Norris,McLaren,4,27,Medium,1,93.335,31.364,39.198,22.774,NO,,64.346
+VER,Max Verstappen,Red Bull,1,28,Hard,8,93.149,31.320,39.087,22.742,NO,,0.000
+PER,Sergio Perez,Red Bull,11,28,Hard,10,93.743,31.534,39.429,22.780,NO,,19.985
+ALO,Fernando Alonso,Aston Martin,14,28,Medium,4,92.583,31.308,39.038,22.237,NO,,46.246
+SAI,Carlos Sainz,Ferrari,55,28,Hard,6,94.207,31.803,39.470,22.934,NO,,32.386
+NOR,Lando Norris,McLaren,4,28,Medium,2,93.136,31.296,39.143,22.697,NO,,64.332
+VER,Max Verstappen,Red Bull,1,29,Hard,9,93.050,31.273,39.096,22.681,NO,,0.000
+PER,Sergio Perez,Red Bull,11,29,Hard,11,94.092,31.517,39.138,23.438,NO,,21.027
+ALO,Fernando Alonso,Aston Martin,14,29,Medium,5,92.645,31.308,38.980,22.357,NO,,45.841
+SAI,Carlos Sainz,Ferrari,55,29,Hard,7,94.155,31.637,39.381,23.137,NO,,33.491
+NOR,Lando Norris,McLaren,4,29,Medium,3,93.448,31.496,39.157,22.795,NO,,64.730
+VER,Max Verstappen,Red Bull,1,30,Hard,10,93.287,31.410,39.044,22.833,NO,,0.000
+PER,Sergio Perez,Red Bull,11,30,Hard,12,93.751,31.746,39.381,22.623,NO,,21.491
+ALO,Fernando Alonso,Aston Martin,14,30,Medium,6,93.259,31.402,38.847,23.010,NO,,45.814
+SAI,Carlos Sainz,Ferrari,55,30,Hard,8,94.518,31.832,39.329,23.357,NO,,34.722
+NOR,Lando Norris,McLaren,4,30,Medium,4,93.369,31.402,38.965,23.001,NO,,64.812
+VER,Max Verstappen,Red Bull,1,31,Hard,11,94.806,31.816,39.689,23.301,NO,,0.000
+PER,Sergio Perez,Red Bull,11,31,Hard,13,95.924,32.039,40.152,23.734,NO,,22.610
+ALO,Fernando Alonso,Aston Martin,14,31,Medium,7,94.895,31.881,39.717,23.297,NO,,45.903
+SAI,Carlos Sainz,Ferrari,55,31,Hard,9,96.090,32.168,40.332,23.589,NO,,36.006
+NOR,Lando Norris,McLaren,4,31,Medium,5,95.050,32.024,39.878,23.148,NO,,65.057
+VER,Max Verstappen,Red Bull,1,32,Hard,12,93.048,31.419,38.833,22.795,NO,,0.000
+PER,Sergio Perez,Red Bull,11,32,Hard,14,93.887,31.546,39.430,22.912,NO,,23.449
+ALO,Fernando Alonso,Aston Martin,14,32,Medium,8,92.928,31.351,38.809,22.769,NO,,45.783
+SAI,Carlos Sainz,Ferrari,55,32,Hard,10,94.060,31.719,39.528,22.813,NO,,37.018
+NOR,Lando Norris,McLaren,4,32,Medium,6,93.235,31.508,39.010,22.717,NO,,65.244
+VER,Max Verstappen,Red Bull,1,33,Hard,13,93.229,31.408,38.963,22.858,NO,,0.000
+PER,Sergio Perez,Red Bull,11,33,Hard,15,94.090,31.615,39.120,23.356,NO,,24.310
+ALO,Fernando Alonso,Aston Martin,14,33,Medium,9,92.944,31.284,39.028,22.631,NO,,45.497
+SAI,Carlos Sainz,Ferrari,55,33,Hard,11,94.510,31.848,39.608,23.054,NO,,38.299
+NOR,Lando Norris,McLaren,4,33,Medium,7,93.427,31.357,39.092,22.978,NO,,65.441
+VER,Max Verstappen,Red Bull,1,34,Hard,14,93.186,31.208,39.031,22.947,NO,,0.000
+PER,Sergio Perez,Red Bull,11,34,Hard,16,93.996,31.768,39.438,22.790,NO,,25.120
+ALO,Fernando Alonso,Aston Martin,14,34,Medium,10,93.526,31.301,38.827,23.398,NO,,45.837
+SAI,Carlos Sainz,Ferrari,55,34,Hard,12,94.388,31.713,39.496,23.179,NO,,39.502
+NOR,Lando Norris,McLaren,4,34,Medium,8,93.598,31.292,38.913,23.392,NO,,65.854
+VER,Max Verstappen,Red Bull,1,35,Hard,15,92.970,31.385,38.945,22.639,NO,,0.000
+PER,Sergio Perez,Red Bull,11,35,Hard,17,93.983,31.737,39.141,23.105,NO,,26.134
+ALO,Fernando Alonso,Aston Martin,14,35,Medium,11,93.176,31.159,39.027,22.990,NO,,46.044
+SAI,Carlos Sainz,Ferrari,55,35,Hard,13,94.611,31.758,39.333,23.520,NO,,41.143
+NOR,Lando Norris,McLaren,4,35,Medium,9,93.371,31.330,39.236,22.805,NO,,66.255
+VER,Max Verstappen,Red Bull,1,36,Hard,16,93.259,31.307,38.892,23.059,NO,,0.000
+PER,Sergio Perez,Red Bull,11,36,Hard,18,94.067,31.667,39.315,23.085,NO,,26.942
+ALO,Fernando Alonso,Aston Martin,14,36,Medium,12,93.127,31.407,38.917,22.803,NO,,45.912
+SAI,Carlos Sainz,Ferrari,55,36,Hard,14,94.577,31.753,39.329,23.494,NO,,42.461
+NOR,Lando Norris,McLaren,4,36,Medium,10,93.553,31.536,39.144,22.873,NO,,66.550
+VER,Max Verstappen,Red Bull,1,37,Hard,17,93.250,31.467,38.967,22.816,NO,,0.000
+PER,Sergio Perez,Red Bull,11,37,Hard,19,94.254,31.517,39.266,23.471,NO,,27.946
+ALO,Fernando Alonso,Aston Martin,14,37,Medium,13,93.380,31.149,38.832,23.398,NO,,46.043
+SAI,Carlos Sainz,Ferrari,55,37,Hard,15,94.764,31.775,39.538,23.451,NO,,43.975
+NOR,Lando Norris,McLaren,4,37,Medium,11,94.092,31.304,39.111,23.677,NO,,67.392
+VER,Max Verstappen,Red Bull,1,38,Hard,18,93.277,31.453,39.090,22.734,NO,,0.000
+PER,Sergio Perez,Red Bull,11,38,Hard,20,94.162,31.614,39.366,23.182,NO,,28.830
+ALO,Fernando Alonso,Aston Martin,14,38,Medium,14,93.809,31.443,38.889,23.477,NO,,46.574
+SAI,Carlos Sainz,Ferrari,55,38,Hard,16,94.204,31.830,39.288,23.086,NO,,44.902
+NOR,Lando Norris,McLaren,4,38,Medium,12,93.680,31.513,39.011,23.155,NO,,67.795
+VER,Max Verstappen,Red Bull,1,39,Hard,19,115.419,31.507,38.856,45.057,YES,2.9,0.000
+PER,Sergio Perez,Red Bull,11,39,Hard,21,94.219,31.713,39.241,23.265,NO,,7.631
+ALO,Fernando Alonso,Aston Martin,14,39,Medium,15,93.675,31.259,39.084,23.332,NO,,24.831
+SAI,Carlos Sainz,Ferrari,55,39,Hard,17,94.346,31.649,39.525,23.172,NO,,23.829
+NOR,Lando Norris,McLaren,4,39,Medium,13,94.191,31.353,38.959,23.878,NO,,46.566
+VER,Max Verstappen,Red Bull,1,40,Medium,1,91.434,31.093,38.535,21.806,NO,,0.000
+PER,Sergio Perez,Red Bull,11,40,Hard,22,114.739,31.677,39.271,43.790,YES,3.2,30.935
+ALO,Fernando Alonso,Aston Martin,14,40,Medium,16,93.409,31.359,39.046,23.004,NO,,26.805
+SAI,Carlos Sainz,Ferrari,55,40,Hard,18,94.865,31.632,39.300,23.933,NO,,27.259
+NOR,Lando Norris,McLaren,4,40,Medium,14,94.133,31.295,39.138,23.700,NO,,49.265
+VER,Max Verstappen,Red Bull,1,41,Medium,2,91.340,30.893,38.387,22.060,NO,,0.000
+PER,Sergio Perez,Red Bull,11,41,Medium,1,92.143,31.198,38.733,22.212,NO,,31.737
+ALO,Fernando Alonso,Aston Martin,14,41,Medium,17,93.968,31.285,38.843,23.840,NO,,29.433
+SAI,Carlos Sainz,Ferrari,55,41,Hard,19,114.009,31.744,39.382,42.884,YES,2.8,49.928
+NOR,Lando Norris,McLaren,4,41,Medium,15,94.096,31.288,38.918,23.890,NO,,52.020
+VER,Max Verstappen,Red Bull,1,42,Medium,3,91.683,30.864,38.418,22.401,NO,,0.000
+PER,Sergio Perez,Red Bull,11,42,Medium,2,92.186,31.202,38.876,22.109,NO,,32.240
+ALO,Fernando Alonso,Aston Martin,14,42,Medium,18,94.158,31.265,38.858,24.036,NO,,31.908
+SAI,Carlos Sainz,Ferrari,55,42,Medium,1,92.849,31.413,38.863,22.572,NO,,51.093
+NOR,Lando Norris,McLaren,4,42,Medium,16,93.820,31.311,38.948,23.560,NO,,54.157
+VER,Max Verstappen,Red Bull,1,43,Medium,4,92.053,30.918,38.572,22.563,NO,,0.000
+PER,Sergio Perez,Red Bull,11,43,Medium,3,92.695,31.341,38.720,22.634,NO,,32.883
+ALO,Fernando Alonso,Aston Martin,14,43,Medium,19,116.552,31.127,38.979,46.445,YES,3.1,56.407
+SAI,Carlos Sainz,Ferrari,55,43,Medium,2,93.126,31.163,38.929,23.034,NO,,52.167
+NOR,Lando Norris,McLaren,4,43,Medium,17,93.999,31.288,39.172,23.539,NO,,56.103
+VER,Max Verstappen,Red Bull,1,44,Medium,5,91.961,30.861,38.377,22.723,NO,,0.000
+PER,Sergio Perez,Red Bull,11,44,Medium,4,92.814,31.301,38.654,22.859,NO,,33.737
+ALO,Fernando Alonso,Aston Martin,14,44,Hard,1,93.960,31.739,39.357,22.864,NO,,58.406
+SAI,Carlos Sainz,Ferrari,55,44,Medium,3,92.655,31.431,39.121,22.103,NO,,52.861
+NOR,Lando Norris,McLaren,4,44,Medium,18,113.100,31.366,38.978,42.756,YES,3.4,77.242
+VER,Max Verstappen,Red Bull,1,45,Medium,6,91.868,30.909,38.300,22.659,NO,,0.000
+PER,Sergio Perez,Red Bull,11,45,Medium,5,92.947,31.191,38.922,22.833,NO,,34.815
+ALO,Fernando Alonso,Aston Martin,14,45,Hard,2,93.770,31.807,39.316,22.647,NO,,60.307
+SAI,Carlos Sainz,Ferrari,55,45,Medium,4,92.767,31.442,39.006,22.319,NO,,53.760
+NOR,Lando Norris,McLaren,4,45,Hard,1,93.976,31.882,39.668,22.426,NO,,79.350
+VER,Max Verstappen,Red Bull,1,46,Medium,7,91.734,30.824,38.283,22.628,NO,,0.000
+PER,Sergio Perez,Red Bull,11,46,Medium,6,92.461,31.341,38.873,22.247,NO,,35.541
+ALO,Fernando Alonso,Aston Martin,14,46,Hard,3,93.858,31.646,39.523,22.689,NO,,62.431
+SAI,Carlos Sainz,Ferrari,55,46,Medium,5,93.199,31.366,38.956,22.877,NO,,55.224
+NOR,Lando Norris,McLaren,4,46,Hard,2,94.041,31.797,39.595,22.649,NO,,81.656
+VER,Max Verstappen,Red Bull,1,47,Medium,8,92.065,31.018,38.483,22.564,NO,,0.000
+PER,Sergio Perez,Red Bull,11,47,Medium,7,92.610,31.266,38.852,22.492,NO,,36.086
+ALO,Fernando Alonso,Aston Martin,14,47,Hard,4,94.196,31.689,39.345,23.162,NO,,64.562
+SAI,Carlos Sainz,Ferrari,55,47,Medium,6,92.820,31.170,39.113,22.538,NO,,55.979
+NOR,Lando Norris,McLaren,4,47,Hard,3,94.249,31.717,39.625,22.907,NO,,83.841
+VER,Max Verstappen,Red Bull,1,48,Medium,9,91.902,31.041,38.563,22.299,NO,,0.000
+PER,Sergio Perez,Red Bull,11,48,Medium,8,92.950,31.370,38.668,22.913,NO,,37.135
+ALO,Fernando Alonso,Aston Martin,14,48,Hard,5,93.809,31.754,39.550,22.504,NO,,66.469
+SAI,Carlos Sainz,Ferrari,55,48,Medium,7,93.186,31.449,39.066,22.671,NO,,57.264
+NOR,Lando Norris,McLaren,4,48,Hard,4,94.310,31.756,39.638,22.915,NO,,86.249
+VER,Max Verstappen,Red Bull,1,49,Medium,10,91.947,31.129,38.310,22.509,NO,,0.000
+PER,Sergio Perez,Red Bull,11,49,Medium,9,93.238,31.127,38.777,23.334,NO,,38.426
+ALO,Fernando Alonso,Aston Martin,14,49,Hard,6,93.731,31.843,39.376,22.512,NO,,68.253
+SAI,Carlos Sainz,Ferrari,55,49,Medium,8,93.357,31.443,38.840,23.075,NO,,58.674
+NOR,Lando Norris,McLaren,4,49,Hard,5,94.188,31.854,39.742,22.592,NO,,88.490
+VER,Max Verstappen,Red Bull,1,50,Medium,11,92.243,31.018,38.615,22.610,NO,,0.000
+PER,Sergio Perez,Red Bull,11,50,Medium,10,92.905,31.238,38.893,22.773,NO,,39.088
+ALO,Fernando Alonso,Aston Martin,14,50,Hard,7,94.389,31.847,39.551,22.991,NO,,70.399
+SAI,Carlos Sainz,Ferrari,55,50,Medium,9,93.168,31.242,38.857,23.070,NO,,59.599
+NOR,Lando Norris,McLaren,4,50,Hard,6,94.181,31.676,39.583,22.921,NO,,90.428
+VER,Max Verstappen,Red Bull,1,51,Medium,12,92.301,30.895,38.399,23.007,NO,,0.000
+PER,Sergio Perez,Red Bull,11,51,Medium,11,92.897,31.361,38.911,22.626,NO,,39.684
+ALO,Fernando Alonso,Aston Martin,14,51,Hard,8,93.963,31.575,39.353,23.035,NO,,72.061
+SAI,Carlos Sainz,Ferrari,55,51,Medium,10,93.710,31.434,39.045,23.230,NO,,61.008
+NOR,Lando Norris,McLaren,4,51,Hard,7,94.637,31.860,39.620,23.158,NO,,92.764
+VER,Max Verstappen,Red Bull,1,52,Medium,13,92.216,31.018,38.607,22.590,NO,,0.000
+PER,Sergio Perez,Red Bull,11,52,Medium,12,93.175,31.114,38.704,23.357,NO,,40.642
+ALO,Fernando Alonso,Aston Martin,14,52,Hard,9,94.088,31.835,39.504,22.750,NO,,73.933
+SAI,Carlos Sainz,Ferrari,55,52,Medium,11,93.298,31.440,38.981,22.876,NO,,62.089
+NOR,Lando Norris,McLaren,4,52,Hard,8,94.357,31.676,39.714,22.967,NO,,94.905
+VER,Max Verstappen,Red Bull,1,53,Medium,14,92.502,30.856,38.390,23.255,NO,,0.000
+PER,Sergio Perez,Red Bull,11,53,Medium,13,93.540,31.262,38.632,23.646,NO,,41.681
+ALO,Fernando Alonso,Aston Martin,14,53,Hard,10,94.284,31.529,39.565,23.191,NO,,75.716
+SAI,Carlos Sainz,Ferrari,55,53,Medium,12,93.247,31.274,38.832,23.141,NO,,62.834
+NOR,Lando Norris,McLaren,4,53,Hard,9,94.307,31.906,39.537,22.863,NO,,96.710
