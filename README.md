@@ -19,10 +19,15 @@ Analysis Performed
 7.	One-page race analysis dashboard: Created an executive summary dashboard consolidating driver statistics, tyre strategies, and sector performance.
 
 Key Findings
+
 •	Fastest Lap: Max Verstappen set the absolute fastest lap of the race with a time of 91.340s on Lap 41 on the Medium tyre compound.
+
 •	Tyre Degradation: The Medium compound showed higher degradation across the field, degrading at 0.078613 s/lap for Alonso and 0.057727 s/lap for Norris. Verstappen displayed superior tyre management with a Medium degradation of only 0.032297 s/lap.
+
 •	Undercut Effectiveness: 8 out of 10 analyzed pit stops showed a clear pace advantage from the undercut. The largest performance jump was observed with Sergio Perez, who achieved a delta of -1.996s following his second stop.
+
 •	Theoretical Perfection: Verstappen was a mere 0.450s away from a theoretical perfect lap, with an ideal sector combination of 90.890s (Best Sectors: S1 = 30.801s, S2 = 38.283s, S3 = 21.806s) versus his actual fastest lap of 91.340s.
+
 •	Strategy Impact: Lando Norris's alternative Hard-Medium strategy backfired in terms of peak performance, yielding the slowest individual fastest lap among the top group (93.136s) and the slowest overall driver average pace (94.424s), demonstrating that starting on the Hard compound compromised late-race pace compared to those on a Medium-first strategy.
 
 Tools Used
