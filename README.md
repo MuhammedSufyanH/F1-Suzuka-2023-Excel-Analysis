@@ -31,7 +31,9 @@ Key Findings
 •	Strategy Impact: Lando Norris's alternative Hard-Medium strategy backfired in terms of peak performance, yielding the slowest individual fastest lap among the top group (93.136s) and the slowest overall driver average pace (94.424s), demonstrating that starting on the Hard compound compromised late-race pace compared to those on a Medium-first strategy.
 
 Tools Used
+
 •	Microsoft Excel 2021
+
 •	PivotTables, AVERAGEIFS, MINIFS, SLOPE, XLOOKUP, and Conditional Formatting
 
 Author: Muhammed Sufyan Haruna
